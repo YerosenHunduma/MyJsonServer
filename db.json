@@ -2,104 +2,253 @@
   "songs": [
     {
       "id": 1,
-      "title": "Hello", 
-      "artist": "Adele"
+      "title": "I Want It That Way", 
+      "artist": "Backstreet Boys"
     },
-    {
+    {  
       "id": 2,
-      "title": "Rolling in the Deep",
-      "artist": "Adele"
+      "title": "Yekatit",
+      "artist": "Teddy Afro"
     },
     {
       "id": 3,
-      "title": "Someone Like You",
-      "artist": "Adele"
-    },
-    {
-      "id": 4,
-      "title": "Set Fire to the Rain",
-      "artist": "Adele"
-    },
-    {
-      "id": 5,
-      "title": "Dance Monkey",
-      "artist": "Tones and I"
-    },
-    {
-      "id": 6,
-      "title": "Blinding Lights",
-      "artist": "The Weeknd"
-    },
-    {
-      "id": 7,
-      "title": "Starboy",
-      "artist": "The Weeknd"
-    },
-    {
-      "id": 8,
-      "title": "Can't Feel My Face",
-      "artist": "The Weeknd"
-    },
-    {
-      "id": 9,
-      "title": "The Hills",
-      "artist": "The Weeknd"
-    },
-    {
-      "id": 10,
-      "title": "Earned It",
-      "artist": "The Weeknd"
-    },
-    {
-      "id": 11,
-      "title": "Shallow",
-      "artist": "Lady Gaga & Bradley Cooper"
-    },
-    {
-      "id": 12,
-      "title": " Bohemian Rhapsody",
-      "artist": "Queen"
-    },
-    {
-      "id": 13,
-      "title": "Smells Like Teen Spirit",
-      "artist": "Nirvana"
-    },
-    {
-      "id": 14,
-      "title": "I Will Always Love You",
-      "artist": "Whitney Houston"
-    },
-    {
-      "id": 15,
-      "title": "I Want It That Way",
-      "artist": "Backstreet Boys"  
-    },
-    {
-      "id": 16,
-      "title": "Lose Yourself",
-      "artist": "Eminem"
-    },
-    {
-      "id": 17,
       "title": "Hey Jude",
       "artist": "The Beatles"
     },
     {
-      "id": 18,
+      "id": 4,
+      "title": "Muzika",
+      "artist": "Betty G" 
+    },
+    {
+      "id": 5,
+      "title": "The Hills",
+      "artist": "The Weeknd"
+    },
+    {
+      "id": 6,
+      "title": "Ambasel",
+      "artist": "Gigi"
+    },
+    {
+      "id": 7,
+      "title": "Gonderena",
+      "artist": "Tewodros Kassahun"
+    },
+    {
+      "id": 8,
+      "title": "Bohemian Rhapsody",
+      "artist": "Queen"
+    },
+    {
+      "id": 9,
+      "title": "Yehun Bebebe",
+      "artist": "Alemayehu Eshete"
+    },
+    {
+      "id": 10,
       "title": "Billie Jean",
       "artist": "Michael Jackson"
     },
     {
+      "id": 11,
+      "title": "Sew",
+      "artist": "Feven Kidane"
+    },
+    {
+      "id": 12,
+      "title": "Dance Monkey",
+      "artist": "Tones and I"
+    },
+    {
+      "id": 13,
+      "title": "Mot Adeladal",
+      "artist": "Debo Band"
+    },
+    {
+      "id": 14,
+      "title": "Starboy",
+      "artist": "The Weeknd"
+    },
+    {
+      "id": 15,
+      "title": "Yekermo Sew",
+      "artist": "Mikael Seifu"
+    },
+    {
+      "id": 16,
+      "title": "Tezeta",  
+      "artist": "Aster Aweke"
+    },
+    {
+      "id": 17,
+      "title": "Lose Yourself",
+      "artist": "Eminem"
+    },
+    {
+      "id": 18,
+      "title": "Tiz Alegn",
+      "artist": "Mahmoud Ahmed"
+    },
+    {
       "id": 19,
+      "title": "Gudifecha",
+      "artist": "Ali Birra"
+    },
+    {
+      "id": 20,
       "title": "Hotel California",
       "artist": "Eagles"
     },
     {
-      "id": 20,
+      "id": 21,
+      "title": "Ere Mela Mela",
+      "artist": "Mahmoud Ahmed"
+    },
+    {
+      "id": 22,
       "title": "I Will Survive",
       "artist": "Gloria Gaynor"
+    },
+    {
+      "id": 23,
+      "title": "Almaz Yeharerwa",
+      "artist": "Tilahun Gessesse"
+    },
+    {
+      "id": 24,
+      "title": "Abay",
+      "artist": "Yohannes Tona"
+    },  
+    {
+      "id": 25,
+      "title": "Rolling in the Deep",
+      "artist": "Adele"
+    },
+    {
+      "id": 26,
+      "title": "Tizita",
+      "artist": "Mahmoud Ahmed"
+    },
+    {
+      "id": 27,
+      "title": "Amba Giorgis",
+      "artist": "Aster Aweke"
+    },
+    {
+      "id": 28,
+      "title": "Blinding Lights",
+      "artist": "The Weeknd"
+    },
+    {
+      "id": 29,
+      "title": "Abet Abet",
+      "artist": "Tilahun Gessesse"
+    },
+    {
+      "id": 30,
+      "title": "Someone Like You",  
+      "artist": "Adele"
+    },
+    {
+      "id": 31,
+      "title": "Bilen",
+      "artist": "Theodros Mitiku"
+    },
+    {
+      "id": 32,
+      "title": "Smells Like Teen Spirit",
+      "artist": "Nirvana"
+    },
+    {
+      "id": 33,
+      "title": "Hadar Hadar",
+      "artist": "Alemayehu Eshete"
+    },
+    {
+      "id": 34,
+      "title": "Can't Feel My Face",
+      "artist": "The Weeknd"
+    },
+    {  
+      "id": 35,
+      "title": "Ewedhalehu",
+      "artist": "Tilahun Gessesse"
+    },
+    {
+      "id": 36,
+      "title": "Hello",
+      "artist": "Adele"
+    },
+    {
+      "id": 37,
+      "title": "Zerafewa",
+      "artist": "Mulatu Astatke" 
+    },
+    {
+      "id": 38,
+      "title": "I Will Always Love You",
+      "artist": "Whitney Houston"
+    },
+    {
+      "id": 39,
+      "title": "Muziqawi Silt",
+      "artist": "Hamelmal Abate"
+    },
+    {
+      "id": 40,
+      "title": "Shallow",
+      "artist": "Lady Gaga & Bradley Cooper"
+    },
+    {
+      "id": 41,
+      "title": "Resh",
+      "artist": "Theodros Mitiku"
+    },
+    {
+      "id": 42,
+      "title": "Set Fire to the Rain",
+      "artist": "Adele"
+    },
+    {
+      "id": 43,
+      "title": "Fikratchin",
+      "artist": "Hahu Bezunesh"
+    },
+    {
+      "id": 44,
+      "title": "Earned It",
+      "artist": "The Weeknd"
+    },
+    {
+      "id": 45,
+      "title": "Guragigna",
+      "artist": "Aster Aweke"
+    },  
+    {
+      "id": 46,
+      "title": "Ebo",
+      "artist": "Betty G"
+    },
+    {
+      "id": 47,
+      "title": "Aynotche Terabu",
+      "artist": "Mahmoud Ahmed"
+    },
+    {
+      "id": 48,
+      "title": "Gara Sir New Bete",
+      "artist": "Teddy Afro"
+    },
+    {
+      "id": 49,
+      "title": "Gum Gum",
+      "artist": "Dinaw Mengestu"
+    },
+    {
+      "id": 50,
+      "title": "Yekermo Sew",
+      "artist": "Muluken Melesse"
     }
-
   ]
 }
