@@ -1,51 +1,105 @@
-<<<<<<< HEAD
 {
   "songs": [
-=======
-[
->>>>>>> 52c5c35c76b90bfc37adc4b194c6ee57ae20f3c9
     {
       "id": 1,
-      "title": "Song 1"
+      "name": "Hello", 
+      "artist": "Adele"
     },
     {
       "id": 2,
-      "title": "Song 2"
+      "name": "Rolling in the Deep",
+      "artist": "Adele"
     },
     {
       "id": 3,
-      "title": "Song 3"
+      "name": "Someone Like You",
+      "artist": "Adele"
     },
     {
       "id": 4,
-      "title": "Song 4"
+      "name": "Set Fire to the Rain",
+      "artist": "Adele"
     },
     {
       "id": 5,
-      "title": "Song 5"
+      "name": "Dance Monkey",
+      "artist": "Tones and I"
     },
     {
       "id": 6,
-      "title": "Song 6"
+      "name": "Blinding Lights",
+      "artist": "The Weeknd"
     },
     {
       "id": 7,
-      "title": "Song 7"
+      "name": "Starboy",
+      "artist": "The Weeknd"
     },
     {
       "id": 8,
-      "title": "Song 8"
+      "name": "Can't Feel My Face",
+      "artist": "The Weeknd"
     },
     {
       "id": 9,
-      "title": "Song 9"
+      "name": "The Hills",
+      "artist": "The Weeknd"
     },
     {
       "id": 10,
-      "title": "Song 10"
+      "name": "Earned It",
+      "artist": "The Weeknd"
+    },
+    {
+      "id": 11,
+      "name": "Shallow",
+      "artist": "Lady Gaga & Bradley Cooper"
+    },
+    {
+      "id": 12,
+      "name": " Bohemian Rhapsody",
+      "artist": "Queen"
+    },
+    {
+      "id": 13,
+      "name": "Smells Like Teen Spirit",
+      "artist": "Nirvana"
+    },
+    {
+      "id": 14,
+      "name": "I Will Always Love You",
+      "artist": "Whitney Houston"
+    },
+    {
+      "id": 15,
+      "name": "I Want It That Way",
+      "artist": "Backstreet Boys"  
+    },
+    {
+      "id": 16,
+      "name": "Lose Yourself",
+      "artist": "Eminem"
+    },
+    {
+      "id": 17,
+      "name": "Hey Jude",
+      "artist": "The Beatles"
+    },
+    {
+      "id": 18,
+      "name": "Billie Jean",
+      "artist": "Michael Jackson"
+    },
+    {
+      "id": 19,
+      "name": "Hotel California",
+      "artist": "Eagles"
+    },
+    {
+      "id": 20,
+      "name": "I Will Survive",
+      "artist": "Gloria Gaynor"
     }
+
   ]
-<<<<<<< HEAD
 }
-=======
->>>>>>> 52c5c35c76b90bfc37adc4b194c6ee57ae20f3c9
