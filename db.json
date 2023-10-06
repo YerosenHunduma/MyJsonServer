@@ -2,102 +2,102 @@
   "songs": [
     {
       "id": 1,
-      "name": "Hello", 
+      "title": "Hello", 
       "artist": "Adele"
     },
     {
       "id": 2,
-      "name": "Rolling in the Deep",
+      "title": "Rolling in the Deep",
       "artist": "Adele"
     },
     {
       "id": 3,
-      "name": "Someone Like You",
+      "title": "Someone Like You",
       "artist": "Adele"
     },
     {
       "id": 4,
-      "name": "Set Fire to the Rain",
+      "title": "Set Fire to the Rain",
       "artist": "Adele"
     },
     {
       "id": 5,
-      "name": "Dance Monkey",
+      "title": "Dance Monkey",
       "artist": "Tones and I"
     },
     {
       "id": 6,
-      "name": "Blinding Lights",
+      "title": "Blinding Lights",
       "artist": "The Weeknd"
     },
     {
       "id": 7,
-      "name": "Starboy",
+      "title": "Starboy",
       "artist": "The Weeknd"
     },
     {
       "id": 8,
-      "name": "Can't Feel My Face",
+      "title": "Can't Feel My Face",
       "artist": "The Weeknd"
     },
     {
       "id": 9,
-      "name": "The Hills",
+      "title": "The Hills",
       "artist": "The Weeknd"
     },
     {
       "id": 10,
-      "name": "Earned It",
+      "title": "Earned It",
       "artist": "The Weeknd"
     },
     {
       "id": 11,
-      "name": "Shallow",
+      "title": "Shallow",
       "artist": "Lady Gaga & Bradley Cooper"
     },
     {
       "id": 12,
-      "name": " Bohemian Rhapsody",
+      "title": " Bohemian Rhapsody",
       "artist": "Queen"
     },
     {
       "id": 13,
-      "name": "Smells Like Teen Spirit",
+      "title": "Smells Like Teen Spirit",
       "artist": "Nirvana"
     },
     {
       "id": 14,
-      "name": "I Will Always Love You",
+      "title": "I Will Always Love You",
       "artist": "Whitney Houston"
     },
     {
       "id": 15,
-      "name": "I Want It That Way",
+      "title": "I Want It That Way",
       "artist": "Backstreet Boys"  
     },
     {
       "id": 16,
-      "name": "Lose Yourself",
+      "title": "Lose Yourself",
       "artist": "Eminem"
     },
     {
       "id": 17,
-      "name": "Hey Jude",
+      "title": "Hey Jude",
       "artist": "The Beatles"
     },
     {
       "id": 18,
-      "name": "Billie Jean",
+      "title": "Billie Jean",
       "artist": "Michael Jackson"
     },
     {
       "id": 19,
-      "name": "Hotel California",
+      "title": "Hotel California",
       "artist": "Eagles"
     },
     {
       "id": 20,
-      "name": "I Will Survive",
+      "title": "I Will Survive",
       "artist": "Gloria Gaynor"
     }
 
