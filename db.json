@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 {
   "songs": [
+=======
+[
+>>>>>>> 52c5c35c76b90bfc37adc4b194c6ee57ae20f3c9
     {
       "id": 1,
       "title": "Song 1"
@@ -41,4 +45,7 @@
       "title": "Song 10"
     }
   ]
+<<<<<<< HEAD
 }
+=======
+>>>>>>> 52c5c35c76b90bfc37adc4b194c6ee57ae20f3c9
